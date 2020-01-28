@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">linearAccel</string>
+    <string name="explorer_name">Explorer</string>
+    <string name="acceleration_name">Acceleration</string>
+    <string name="action_start_log">Start Log</string>
+    <string name="sensor_name">Sensor</string>
+</resources>
